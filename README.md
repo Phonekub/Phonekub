@@ -22,4 +22,4 @@ I would like to create web and mobile
 
 <a href="http://www.github.com/Phonekub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Phonekub&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Phonekub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phonekub&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phonekub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
